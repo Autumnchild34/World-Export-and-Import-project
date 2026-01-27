@@ -1,0 +1,7685 @@
+Partner Name,Region,Is_Anomaly
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Belgium-Luxembourg,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,False
+Cocos (Keeling) Islands,Other,True
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,False
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Czechoslovakia,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+German Democratic Republic,Other,False
+Germany,Europe & Central Asia,False
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Western Sahara,Other,False
+Spain,Other,False
+Ethiopia(includes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,False
+Faeroe Islands,Other,False
+Gabon,Other,False
+United Kingdom,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,False
+Honduras,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,False
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kenya,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Macao,Other,False
+Morocco,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Netherlands,Other,False
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+Singapore,East Asia & Pacific,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Soviet Union,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen Democratic,Other,False
+Yemen,Other,False
+"Yugoslavia,FR(Serbia/Montenegr",Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Belgium-Luxembourg,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,False
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,False
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Czechoslovakia,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+German Democratic Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Western Sahara,Other,False
+Spain,Other,False
+Ethiopia(includes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Faeroe Islands,Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,False
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kenya,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Macao,Other,False
+Morocco,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,False
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,True
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+Singapore,East Asia & Pacific,True
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Soviet Union,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tokelau,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Uruguay,Other,True
+United States,North America,True
+Us Msc.Pac.I,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen Democratic,Other,False
+Yemen,Other,False
+"Yugoslavia,FR(Serbia/Montenegr",Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,False
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,False
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Czechoslovakia,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+German Democratic Republic,Other,True
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Western Sahara,Other,False
+Spain,Other,False
+Ethiopia(includes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Faeroe Islands,Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kenya,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,False
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,True
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+Singapore,East Asia & Pacific,True
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Soviet Union,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tokelau,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Uruguay,Other,True
+United States,North America,True
+Us Msc.Pac.I,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,True
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen Democratic,Other,False
+Yemen,Other,False
+"Yugoslavia,FR(Serbia/Montenegr",Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Belgium-Luxembourg,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,False
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Czechoslovakia,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Western Sahara,Other,False
+Spain,Other,False
+Ethiopia(includes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,False
+Honduras,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kenya,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,False
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+Singapore,East Asia & Pacific,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Soviet Union,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tokelau,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,True
+Yemen,Other,False
+"Yugoslavia,FR(Serbia/Montenegr",Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,False
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,False
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Czechoslovakia,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Western Sahara,Other,False
+Spain,Other,False
+Estonia,Other,False
+Ethiopia(includes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,True
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,True
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Latvia,Other,False
+Macao,Other,True
+Morocco,Other,False
+Monaco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,True
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,True
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,False
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,True
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Latvia,Other,False
+Macao,Other,True
+Morocco,Other,False
+Monaco,Other,True
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,False
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,True
+Ukraine,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,True
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,True
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,True
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Latvia,Other,False
+Macao,Other,True
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,True
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Benin,Other,True
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,True
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,True
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+Guadeloupe,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+French Guiana,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,True
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Martinique,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Reunion,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,True
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,True
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,True
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,False
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,True
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,True
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,False
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,True
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,True
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,True
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belgium-Luxembourg,Other,True
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,True
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,True
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,False
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,True
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,True
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,True
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Monaco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Us Msc.Pac.I,Other,False
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,False
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,False
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,True
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,False
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,False
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,False
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,False
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,False
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,True
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,True
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,True
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,True
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,True
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+Netherlands Antilles,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,True
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,False
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,True
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,True
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,False
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,True
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,True
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,True
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,True
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,True
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,True
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,True
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,True
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Mayotte,Other,False
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,True
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,True
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,False
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,False
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,True
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,True
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,True
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,False
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,False
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,False
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,False
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,False
+Austria,Other,True
+Azerbaijan,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,True
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,True
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,True
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,True
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,True
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,True
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,False
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,True
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,False
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,False
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,False
+Fm Sudan,Other,False
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,True
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,False
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False
+Aruba,Other,False
+Afghanistan,Other,False
+Angola,Other,False
+Anguila,Other,False
+Albania,Other,False
+Andorra,Other,False
+United Arab Emirates,Other,True
+Argentina,Other,False
+Armenia,Other,False
+American Samoa,Other,False
+Antarctica,Other,False
+Fr. So. Ant. Tr,Other,False
+Antigua and Barbuda,Other,False
+Australia,Other,True
+Austria,Other,False
+Azerbaijan,Other,False
+Br. Antr. Terr,Other,False
+Burundi,Other,False
+Belgium,Other,True
+Benin,Other,False
+Bonaire,Other,False
+Burkina Faso,Other,False
+Bangladesh,Other,False
+Bulgaria,Other,False
+Bahrain,Other,False
+"Bahamas, The",Other,False
+Bosnia and Herzegovina,Other,False
+Saint Barthélemy,Other,False
+Belarus,Other,False
+Belize,Other,False
+Bermuda,Other,False
+Bolivia,Other,False
+Brazil,Other,True
+Barbados,Other,False
+Brunei,Other,False
+Bhutan,Other,False
+Bouvet Island,Other,False
+Botswana,Other,False
+Central African Republic,Other,False
+Canada,North America,True
+Cocos (Keeling) Islands,Other,False
+Switzerland,Other,True
+Chile,Other,False
+China,East Asia & Pacific,True
+Cote d'Ivoire,Other,False
+Cameroon,Other,False
+"Congo, Rep.",Other,False
+Cook Islands,Other,False
+Colombia,Other,False
+Comoros,Other,False
+Cape Verde,Other,False
+Costa Rica,Other,False
+Cuba,Other,False
+Curaçao,Other,False
+Christmas Island,Other,False
+Cayman Islands,Other,False
+Cyprus,Other,False
+Czech Republic,Other,False
+Germany,Europe & Central Asia,True
+Djibouti,Other,False
+Dominica,Other,False
+Denmark,Other,False
+Dominican Republic,Other,False
+Algeria,Other,False
+Ecuador,Other,False
+"Egypt, Arab Rep.",Other,True
+Eritrea,Other,False
+Western Sahara,Other,False
+Spain,Other,True
+Estonia,Other,False
+Ethiopia(excludes Eritrea),Other,False
+Finland,Other,False
+Fiji,Other,False
+Falkland Island,Other,False
+France,Europe & Central Asia,True
+Free Zones,Other,False
+Faeroe Islands,Other,False
+"Micronesia, Fed. Sts.",Other,False
+Gabon,Other,False
+United Kingdom,Other,True
+Georgia,Other,False
+Ghana,Other,False
+Gibraltar,Other,False
+Guinea,Other,False
+"Gambia, The",Other,False
+Guinea-Bissau,Other,False
+Equatorial Guinea,Other,False
+Greece,Other,False
+Grenada,Other,False
+Greenland,Other,False
+Guatemala,Other,False
+Guam,Other,False
+Guyana,Other,False
+"Hong Kong, China",East Asia & Pacific,True
+Heard Island and McDonald Isla,Other,False
+Honduras,Other,False
+Croatia,Other,False
+Haiti,Other,False
+Hungary,Other,False
+Indonesia,Other,True
+India,Other,True
+British Indian Ocean Ter.,Other,False
+Ireland,Other,True
+"Iran, Islamic Rep.",Other,False
+Iraq,Other,False
+Iceland,Other,False
+Israel,Other,True
+Italy,Europe & Central Asia,True
+Jamaica,Other,False
+Jordan,Other,False
+Japan,East Asia & Pacific,True
+Kazakhstan,Other,False
+Kenya,Other,False
+Kyrgyz Republic,Other,False
+Cambodia,Other,False
+Kiribati,Other,False
+St. Kitts and Nevis,Other,False
+"Korea, Rep.",East Asia & Pacific,True
+Kuwait,Other,False
+Lao PDR,Other,False
+Lebanon,Other,False
+Liberia,Other,False
+Libya,Other,False
+St. Lucia,Other,False
+Sri Lanka,Other,False
+Lesotho,Other,False
+Lithuania,Other,False
+Luxembourg,Other,False
+Latvia,Other,False
+Macao,Other,False
+Morocco,Other,False
+Moldova,Other,False
+Madagascar,Other,False
+Maldives,Other,False
+Mexico,North America,True
+Marshall Islands,Other,False
+North Macedonia,Other,False
+Mali,Other,False
+Malta,Other,False
+Myanmar,Other,False
+Mongolia,Other,False
+Northern Mariana Islands,Other,False
+Montenegro,Other,False
+Mozambique,Other,False
+Mauritania,Other,False
+Montserrat,Other,False
+Mauritius,Other,False
+Malawi,Other,False
+Malaysia,Other,True
+Namibia,Other,False
+New Caledonia,Other,False
+Niger,Other,False
+Norfolk Island,Other,False
+Nigeria,Other,False
+Nicaragua,Other,False
+Niue,Other,False
+Netherlands,Other,True
+Norway,Other,True
+Nepal,Other,False
+Nauru,Other,False
+New Zealand,Other,False
+Oman,Other,False
+Pakistan,Other,False
+Panama,Other,False
+Pitcairn,Other,False
+Peru,Other,False
+Philippines,Other,True
+Palau,Other,False
+Papua New Guinea,Other,False
+Poland,Other,True
+"Korea, Dem. Rep.",East Asia & Pacific,False
+Portugal,Other,False
+Paraguay,Other,False
+Occ.Pal.Terr,Other,False
+French Polynesia,Other,False
+Qatar,Other,False
+Romania,Other,False
+Russian Federation,Other,True
+Rwanda,Other,False
+Saudi Arabia,Other,True
+Senegal,Other,False
+"Serbia, FR(Serbia/Montenegro)",Other,False
+Singapore,East Asia & Pacific,True
+South Georgia and the South Sa,Other,False
+Saint Helena,Other,False
+Solomon Islands,Other,False
+Sierra Leone,Other,False
+El Salvador,Other,False
+San Marino,Other,False
+Somalia,Other,False
+Saint Pierre and Miquelon,Other,False
+South Sudan,Other,False
+Sao Tome and Principe,Other,False
+Sudan,Other,False
+Suriname,Other,False
+Slovak Republic,Other,False
+Slovenia,Other,False
+Sweden,Other,False
+Eswatini,Other,False
+Saint Maarten (Dutch part),Other,False
+Seychelles,Other,False
+Syrian Arab Republic,Other,False
+Turks and Caicos Isl.,Other,False
+Chad,Other,False
+Togo,Other,False
+Thailand,Other,True
+Tajikistan,Other,False
+Tokelau,Other,False
+Turkmenistan,Other,False
+East Timor,Other,False
+Tonga,Other,False
+Trinidad and Tobago,Other,False
+Tunisia,Other,False
+Turkey,Other,True
+Tuvalu,Other,False
+Tanzania,Other,False
+Uganda,Other,False
+Ukraine,Other,False
+United States Minor Outlying I,North America,False
+Uruguay,Other,False
+United States,North America,True
+Uzbekistan,Other,False
+Holy See,Other,False
+St. Vincent and the Grenadines,Other,False
+Venezuela,Other,False
+British Virgin Islands,Other,False
+Vietnam,Other,True
+Vanuatu,Other,False
+ World,World,True
+Wallis and Futura Isl.,Other,False
+Samoa,Other,False
+Yemen,Other,False
+South Africa,Other,True
+"Congo, Dem. Rep.",Other,False
+Zambia,Other,False
+Zimbabwe,Other,False

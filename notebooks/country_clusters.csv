@@ -1,0 +1,7685 @@
+Partner Name,Region,Cluster
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,2
+Netherlands Antilles,Other,0
+United Arab Emirates,Other,2
+Argentina,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,2
+Austria,Other,0
+Burundi,Other,0
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Belgium-Luxembourg,Other,2
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,2
+Bhutan,Other,2
+Central African Republic,Other,0
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,0
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Czechoslovakia,Other,2
+Cuba,Other,0
+Christmas Island,Other,2
+Cayman Islands,Other,0
+Cyprus,Other,0
+German Democratic Republic,Other,2
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,2
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Western Sahara,Other,0
+Spain,Other,2
+Ethiopia(includes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Faeroe Islands,Other,0
+Gabon,Other,0
+United Kingdom,Other,2
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+Guadeloupe,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,2
+French Guiana,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,0
+Haiti,Other,0
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,0
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,2
+Kenya,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,0
+Lao PDR,Other,2
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,2
+Macao,Other,0
+Morocco,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,2
+Martinique,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,2
+New Caledonia,Other,0
+Niger,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Netherlands,Other,2
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,2
+Oman,Other,0
+Pakistan,Other,2
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,2
+Papua New Guinea,Other,0
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Reunion,Other,0
+Romania,Other,2
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Soviet Union,Other,0
+Sweden,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,2
+East Timor,Other,2
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,2
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Uruguay,Other,0
+United States,North America,2
+Us Msc.Pac.I,Other,2
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,2
+Wallis and Futura Isl.,Other,2
+Samoa,Other,0
+Yemen Democratic,Other,0
+Yemen,Other,2
+"Yugoslavia,FR(Serbia/Montenegr",Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,2
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,2
+Burundi,Other,2
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,2
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,2
+Bhutan,Other,2
+Central African Republic,Other,2
+Canada,North America,2
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,2
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,0
+Cape Verde,Other,2
+Costa Rica,Other,2
+Czechoslovakia,Other,2
+Cuba,Other,2
+Christmas Island,Other,2
+Cayman Islands,Other,2
+Cyprus,Other,2
+German Democratic Republic,Other,2
+Germany,Europe & Central Asia,2
+Djibouti,Other,2
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,2
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Western Sahara,Other,2
+Spain,Other,2
+Ethiopia(includes Eritrea),Other,2
+Finland,Other,2
+Fiji,Other,2
+Falkland Island,Other,2
+France,Europe & Central Asia,2
+Faeroe Islands,Other,2
+Gabon,Other,2
+United Kingdom,Other,2
+Ghana,Other,2
+Gibraltar,Other,2
+Guinea,Other,2
+Guadeloupe,Other,2
+"Gambia, The",Other,2
+Guinea-Bissau,Other,2
+Equatorial Guinea,Other,2
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,2
+Guatemala,Other,2
+French Guiana,Other,2
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kenya,Other,2
+Cambodia,Other,2
+Kiribati,Other,2
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Macao,Other,2
+Morocco,Other,2
+Madagascar,Other,2
+Maldives,Other,2
+Mexico,North America,2
+Mali,Other,2
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Mozambique,Other,2
+Mauritania,Other,2
+Montserrat,Other,2
+Martinique,Other,2
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,2
+New Caledonia,Other,2
+Niger,Other,2
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,2
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Papua New Guinea,Other,2
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,2
+Qatar,Other,2
+Reunion,Other,2
+Romania,Other,2
+Rwanda,Other,2
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,2
+Solomon Islands,Other,2
+Sierra Leone,Other,2
+El Salvador,Other,2
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,2
+Sao Tome and Principe,Other,2
+Suriname,Other,2
+Soviet Union,Other,2
+Sweden,Other,2
+Seychelles,Other,2
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,2
+Tokelau,Other,2
+East Timor,Other,2
+Tonga,Other,2
+Trinidad and Tobago,Other,2
+Tunisia,Other,2
+Turkey,Other,2
+Tuvalu,Other,2
+Tanzania,Other,2
+Uganda,Other,2
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,2
+ World,World,2
+Wallis and Futura Isl.,Other,2
+Samoa,Other,2
+Yemen Democratic,Other,2
+Yemen,Other,2
+"Yugoslavia,FR(Serbia/Montenegr",Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,2
+Burundi,Other,0
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,2
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,2
+Bhutan,Other,2
+Central African Republic,Other,0
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,2
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,2
+Cape Verde,Other,2
+Costa Rica,Other,2
+Czechoslovakia,Other,2
+Cuba,Other,2
+Christmas Island,Other,2
+Cayman Islands,Other,2
+Cyprus,Other,2
+German Democratic Republic,Other,2
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,2
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Western Sahara,Other,2
+Spain,Other,2
+Ethiopia(includes Eritrea),Other,2
+Finland,Other,2
+Fiji,Other,2
+Falkland Island,Other,2
+France,Europe & Central Asia,2
+Faeroe Islands,Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Ghana,Other,2
+Gibraltar,Other,2
+Guinea,Other,2
+Guadeloupe,Other,2
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,2
+Guatemala,Other,2
+French Guiana,Other,2
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kenya,Other,2
+Cambodia,Other,2
+Kiribati,Other,2
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Macao,Other,2
+Morocco,Other,2
+Monaco,Other,2
+Madagascar,Other,2
+Maldives,Other,2
+Mexico,North America,2
+Mali,Other,2
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Mozambique,Other,2
+Mauritania,Other,2
+Montserrat,Other,2
+Martinique,Other,2
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,2
+New Caledonia,Other,2
+Niger,Other,2
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,2
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,2
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Papua New Guinea,Other,2
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,2
+Qatar,Other,2
+Reunion,Other,2
+Romania,Other,2
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,0
+Senegal,Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,2
+Solomon Islands,Other,2
+Sierra Leone,Other,2
+El Salvador,Other,2
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,2
+Sao Tome and Principe,Other,2
+Suriname,Other,2
+Soviet Union,Other,2
+Sweden,Other,2
+Seychelles,Other,2
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,2
+Tokelau,Other,2
+East Timor,Other,2
+Tonga,Other,2
+Trinidad and Tobago,Other,2
+Tunisia,Other,2
+Turkey,Other,2
+Tuvalu,Other,0
+Tanzania,Other,2
+Uganda,Other,2
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,2
+ World,World,2
+Wallis and Futura Isl.,Other,2
+Samoa,Other,2
+Yemen Democratic,Other,2
+Yemen,Other,2
+"Yugoslavia,FR(Serbia/Montenegr",Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,2
+Burundi,Other,2
+Benin,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,2
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,2
+Bhutan,Other,0
+Central African Republic,Other,0
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,2
+Cape Verde,Other,2
+Costa Rica,Other,2
+Czechoslovakia,Other,2
+Cuba,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,2
+Cyprus,Other,2
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,0
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Western Sahara,Other,2
+Spain,Other,2
+Ethiopia(includes Eritrea),Other,2
+Finland,Other,2
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+Guadeloupe,Other,2
+"Gambia, The",Other,2
+Guinea-Bissau,Other,2
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,2
+French Guiana,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kenya,Other,2
+Cambodia,Other,2
+Kiribati,Other,0
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,0
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,0
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Macao,Other,2
+Morocco,Other,2
+Monaco,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,2
+Mali,Other,2
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,0
+Mozambique,Other,2
+Mauritania,Other,2
+Montserrat,Other,2
+Martinique,Other,2
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,2
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,2
+Nigeria,Other,0
+Nicaragua,Other,2
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,2
+Nepal,Other,2
+Nauru,Other,0
+New Zealand,Other,2
+Oman,Other,0
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Papua New Guinea,Other,2
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,2
+Qatar,Other,0
+Reunion,Other,2
+Romania,Other,2
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,2
+El Salvador,Other,2
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,2
+Sao Tome and Principe,Other,0
+Suriname,Other,2
+Soviet Union,Other,2
+Sweden,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,2
+Tokelau,Other,2
+East Timor,Other,2
+Tonga,Other,2
+Trinidad and Tobago,Other,2
+Tunisia,Other,2
+Turkey,Other,2
+Tuvalu,Other,2
+Tanzania,Other,2
+Uganda,Other,2
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,2
+Wallis and Futura Isl.,Other,0
+Samoa,Other,2
+Yemen,Other,0
+"Yugoslavia,FR(Serbia/Montenegr",Other,2
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,0
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,2
+Azerbaijan,Other,2
+Burundi,Other,2
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,2
+Bosnia and Herzegovina,Other,2
+Belarus,Other,0
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Central African Republic,Other,0
+Canada,North America,2
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,2
+Cape Verde,Other,0
+Costa Rica,Other,2
+Czechoslovakia,Other,2
+Cuba,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,2
+Cyprus,Other,0
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,2
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,0
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,2
+Ethiopia(includes Eritrea),Other,0
+Finland,Other,2
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,2
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+Guadeloupe,Other,2
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,2
+French Guiana,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Croatia,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,2
+Kenya,Other,2
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,2
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,0
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,0
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lithuania,Other,2
+Latvia,Other,2
+Macao,Other,2
+Morocco,Other,2
+Monaco,Other,2
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,2
+Marshall Islands,Other,0
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,0
+Mozambique,Other,0
+Mauritania,Other,2
+Montserrat,Other,2
+Martinique,Other,2
+Mauritius,Other,2
+Malawi,Other,0
+Malaysia,Other,2
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,2
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,0
+Qatar,Other,0
+Reunion,Other,2
+Romania,Other,2
+Russian Federation,Other,2
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,0
+Solomon Islands,Other,2
+Sierra Leone,Other,0
+El Salvador,Other,2
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,2
+Slovenia,Other,0
+Sweden,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,0
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,2
+Tonga,Other,0
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,2
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,2
+Wallis and Futura Isl.,Other,2
+Samoa,Other,2
+Yemen,Other,0
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,2
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,2
+Azerbaijan,Other,2
+Br. Antr. Terr,Other,0
+Burundi,Other,2
+Benin,Other,0
+Burkina Faso,Other,2
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,2
+Bosnia and Herzegovina,Other,2
+Belarus,Other,2
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,2
+Bhutan,Other,2
+Central African Republic,Other,2
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,2
+Cape Verde,Other,0
+Costa Rica,Other,2
+Cuba,Other,2
+Christmas Island,Other,2
+Cayman Islands,Other,2
+Cyprus,Other,2
+Czech Republic,Other,2
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,2
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Eritrea,Other,2
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,2
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,2
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,2
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+Guadeloupe,Other,2
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,2
+French Guiana,Other,2
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Croatia,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,2
+Kenya,Other,2
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,2
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,0
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lithuania,Other,2
+Latvia,Other,2
+Macao,Other,2
+Morocco,Other,2
+Monaco,Other,2
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,2
+Marshall Islands,Other,0
+North Macedonia,Other,2
+Mali,Other,2
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,2
+Mauritania,Other,0
+Montserrat,Other,2
+Martinique,Other,2
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,2
+New Caledonia,Other,0
+Niger,Other,2
+Norfolk Island,Other,2
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,0
+Netherlands,Other,2
+Norway,Other,2
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Palau,Other,2
+Papua New Guinea,Other,2
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,0
+Qatar,Other,2
+Reunion,Other,2
+Romania,Other,2
+Russian Federation,Other,2
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,0
+Senegal,Other,2
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,2
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,2
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,2
+Sao Tome and Principe,Other,2
+Suriname,Other,2
+Slovak Republic,Other,2
+Slovenia,Other,2
+Sweden,Other,2
+Seychelles,Other,2
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,2
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,2
+Turkey,Other,2
+Tuvalu,Other,2
+Tanzania,Other,2
+Uganda,Other,2
+Ukraine,Other,2
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,2
+ World,World,3
+Wallis and Futura Isl.,Other,2
+Samoa,Other,2
+Yemen,Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,2
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,2
+Antigua and Barbuda,Other,0
+Australia,Other,2
+Austria,Other,2
+Azerbaijan,Other,2
+Br. Antr. Terr,Other,2
+Burundi,Other,2
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,2
+Bosnia and Herzegovina,Other,2
+Belarus,Other,2
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,2
+Bhutan,Other,2
+Central African Republic,Other,2
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,2
+Cuba,Other,2
+Christmas Island,Other,2
+Cayman Islands,Other,2
+Cyprus,Other,2
+Czech Republic,Other,2
+Germany,Europe & Central Asia,2
+Djibouti,Other,2
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,0
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Eritrea,Other,2
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,2
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,2
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,2
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,2
+Ghana,Other,0
+Gibraltar,Other,2
+Guinea,Other,0
+Guadeloupe,Other,2
+"Gambia, The",Other,2
+Guinea-Bissau,Other,2
+Equatorial Guinea,Other,2
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,2
+French Guiana,Other,2
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Croatia,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,2
+Kenya,Other,2
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,2
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,0
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lithuania,Other,2
+Latvia,Other,2
+Macao,Other,2
+Morocco,Other,2
+Moldova,Other,2
+Madagascar,Other,2
+Maldives,Other,2
+Mexico,North America,2
+Marshall Islands,Other,0
+North Macedonia,Other,2
+Mali,Other,2
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,2
+Mauritania,Other,0
+Montserrat,Other,2
+Martinique,Other,2
+Mauritius,Other,2
+Malawi,Other,0
+Malaysia,Other,2
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,2
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,0
+Netherlands,Other,2
+Norway,Other,2
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,2
+Qatar,Other,2
+Reunion,Other,2
+Romania,Other,2
+Russian Federation,Other,2
+Rwanda,Other,2
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,2
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,2
+Solomon Islands,Other,0
+Sierra Leone,Other,2
+El Salvador,Other,2
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,2
+Sao Tome and Principe,Other,2
+Suriname,Other,2
+Slovak Republic,Other,2
+Slovenia,Other,2
+Sweden,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,2
+Tonga,Other,2
+Trinidad and Tobago,Other,0
+Tunisia,Other,2
+Turkey,Other,2
+Tuvalu,Other,2
+Tanzania,Other,2
+Uganda,Other,2
+Ukraine,Other,2
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,2
+ World,World,3
+Wallis and Futura Isl.,Other,2
+Samoa,Other,2
+Yemen,Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,0
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,2
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,2
+Burundi,Other,0
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,2
+Belarus,Other,0
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,0
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,2
+Central African Republic,Other,0
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,2
+Cuba,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,2
+Cyprus,Other,2
+Czech Republic,Other,2
+Germany,Europe & Central Asia,2
+Djibouti,Other,2
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,0
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Eritrea,Other,2
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,2
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,2
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+Guadeloupe,Other,2
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,2
+Greece,Other,2
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,2
+French Guiana,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Croatia,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,2
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,0
+Kenya,Other,2
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,2
+St. Lucia,Other,0
+Sri Lanka,Other,2
+Lithuania,Other,0
+Latvia,Other,0
+Macao,Other,2
+Morocco,Other,2
+Monaco,Other,2
+Moldova,Other,2
+Madagascar,Other,2
+Maldives,Other,2
+Mexico,North America,2
+Marshall Islands,Other,0
+North Macedonia,Other,2
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,0
+Mozambique,Other,2
+Mauritania,Other,2
+Montserrat,Other,2
+Martinique,Other,2
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,2
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,2
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,0
+Peru,Other,2
+Philippines,Other,2
+Palau,Other,2
+Papua New Guinea,Other,2
+Poland,Other,2
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,0
+Qatar,Other,2
+Reunion,Other,2
+Romania,Other,2
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,2
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,2
+Sao Tome and Principe,Other,0
+Suriname,Other,2
+Slovak Republic,Other,2
+Slovenia,Other,2
+Sweden,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,0
+Tokelau,Other,2
+Turkmenistan,Other,0
+East Timor,Other,2
+Tonga,Other,2
+Trinidad and Tobago,Other,0
+Tunisia,Other,2
+Turkey,Other,2
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,2
+Ukraine,Other,0
+Uruguay,Other,0
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,2
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,2
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,2
+Azerbaijan,Other,2
+Br. Antr. Terr,Other,2
+Burundi,Other,0
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,2
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belgium-Luxembourg,Other,2
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Central African Republic,Other,2
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,0
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,2
+Cape Verde,Other,0
+Costa Rica,Other,2
+Cuba,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,2
+Cyprus,Other,2
+Czech Republic,Other,0
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,0
+Dominican Republic,Other,2
+Algeria,Other,0
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,2
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Croatia,Other,0
+Haiti,Other,2
+Hungary,Other,0
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,2
+Israel,Other,0
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,0
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,2
+Kenya,Other,0
+Kyrgyz Republic,Other,2
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,0
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lithuania,Other,0
+Latvia,Other,0
+Macao,Other,2
+Morocco,Other,0
+Monaco,Other,0
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,2
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,2
+Nigeria,Other,0
+Nicaragua,Other,2
+Niue,Other,0
+Netherlands,Other,2
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,0
+New Zealand,Other,2
+Oman,Other,0
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,0
+Peru,Other,2
+Philippines,Other,0
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,2
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,2
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,0
+Tonga,Other,2
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,2
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,0
+Azerbaijan,Other,2
+Br. Antr. Terr,Other,2
+Burundi,Other,2
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belgium-Luxembourg,Other,2
+Belize,Other,0
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Central African Republic,Other,0
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,2
+Cuba,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,2
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,2
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,2
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,2
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Croatia,Other,0
+Haiti,Other,2
+Hungary,Other,0
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,0
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,0
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,2
+Kenya,Other,2
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,0
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lithuania,Other,0
+Latvia,Other,0
+Macao,Other,2
+Morocco,Other,0
+Monaco,Other,2
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,2
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,2
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,0
+New Caledonia,Other,0
+Niger,Other,2
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,2
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,2
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,0
+Tonga,Other,2
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,2
+Tuvalu,Other,0
+Tanzania,Other,2
+Uganda,Other,2
+Ukraine,Other,2
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,0
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,0
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,0
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,2
+Burundi,Other,2
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,2
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belgium-Luxembourg,Other,2
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Central African Republic,Other,2
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,2
+Cayman Islands,Other,2
+Cyprus,Other,2
+Czech Republic,Other,0
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,0
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,2
+Hungary,Other,0
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,2
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lithuania,Other,0
+Latvia,Other,0
+Macao,Other,2
+Morocco,Other,0
+Monaco,Other,2
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,2
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+New Caledonia,Other,0
+Niger,Other,2
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,0
+Qatar,Other,2
+Romania,Other,2
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,2
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,2
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,0
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,0
+East Timor,Other,2
+Tonga,Other,2
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,2
+Tuvalu,Other,2
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,2
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,0
+Uzbekistan,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,2
+Andorra,Other,2
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,2
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,2
+Austria,Other,0
+Azerbaijan,Other,2
+Br. Antr. Terr,Other,0
+Burundi,Other,2
+Belgium,Other,2
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,2
+Bulgaria,Other,0
+Bahrain,Other,2
+"Bahamas, The",Other,2
+Bosnia and Herzegovina,Other,2
+Belarus,Other,0
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,2
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Central African Republic,Other,2
+Canada,North America,2
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,2
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,2
+Colombia,Other,2
+Comoros,Other,2
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,2
+Christmas Island,Other,2
+Cayman Islands,Other,0
+Cyprus,Other,2
+Czech Republic,Other,0
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,2
+Algeria,Other,2
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,2
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,2
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Honduras,Other,2
+Croatia,Other,2
+Haiti,Other,2
+Hungary,Other,0
+Indonesia,Other,2
+India,Other,2
+British Indian Ocean Ter.,Other,2
+Ireland,Other,2
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,2
+Kazakhstan,Other,0
+Kenya,Other,2
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,2
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,2
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,2
+Morocco,Other,2
+Monaco,Other,2
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,2
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,2
+Mauritania,Other,2
+Montserrat,Other,0
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,2
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,2
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,2
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+French Polynesia,Other,0
+Qatar,Other,2
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,2
+Saint Helena,Other,0
+Solomon Islands,Other,2
+Sierra Leone,Other,0
+El Salvador,Other,2
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,2
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,2
+Seychelles,Other,2
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,2
+Tonga,Other,0
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,2
+Tuvalu,Other,0
+Tanzania,Other,2
+Uganda,Other,2
+Ukraine,Other,2
+Uruguay,Other,0
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,2
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,2
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,2
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,0
+Armenia,Other,2
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,0
+Austria,Other,2
+Azerbaijan,Other,2
+Burundi,Other,2
+Belgium,Other,2
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,2
+Bulgaria,Other,0
+Bahrain,Other,2
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,2
+Brazil,Other,0
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Bouvet Island,Other,0
+Botswana,Other,2
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,0
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,2
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,2
+Cayman Islands,Other,2
+Cyprus,Other,2
+Czech Republic,Other,0
+Germany,Europe & Central Asia,2
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,2
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,2
+France,Europe & Central Asia,2
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,2
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,2
+Heard Island and McDonald Isla,Other,2
+Honduras,Other,0
+Croatia,Other,2
+Haiti,Other,2
+Hungary,Other,2
+Indonesia,Other,2
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,2
+Iraq,Other,2
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,0
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lesotho,Other,2
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,2
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,2
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,0
+Niue,Other,2
+Netherlands,Other,2
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,0
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,0
+Peru,Other,2
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+Occ.Pal.Terr,Other,2
+French Polynesia,Other,0
+Qatar,Other,2
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,2
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,2
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,2
+Eswatini,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,2
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,2
+Tonga,Other,0
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,2
+Uganda,Other,2
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,2
+United States,North America,2
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,0
+British Virgin Islands,Other,2
+Vietnam,Other,2
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,2
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,2
+Zimbabwe,Other,0
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,2
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,0
+Bulgaria,Other,2
+Bahrain,Other,2
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,2
+Belarus,Other,0
+Belize,Other,2
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,0
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Bouvet Island,Other,0
+Botswana,Other,2
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,2
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,2
+Cyprus,Other,2
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,2
+Dominica,Other,2
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,2
+Ecuador,Other,2
+"Egypt, Arab Rep.",Other,2
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,2
+France,Europe & Central Asia,2
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,2
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,2
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,2
+Greece,Other,0
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,2
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,2
+Honduras,Other,0
+Croatia,Other,2
+Haiti,Other,0
+Hungary,Other,2
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,2
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,0
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,2
+Libya,Other,0
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lesotho,Other,2
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,2
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,2
+Mauritius,Other,2
+Malawi,Other,2
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,2
+New Caledonia,Other,0
+Niger,Other,2
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,2
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,0
+Oman,Other,2
+Pakistan,Other,2
+Panama,Other,2
+Pitcairn,Other,2
+Peru,Other,2
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+Occ.Pal.Terr,Other,2
+French Polynesia,Other,0
+Qatar,Other,2
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,0
+Senegal,Other,2
+"Serbia, FR(Serbia/Montenegro)",Other,2
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,2
+Slovak Republic,Other,0
+Slovenia,Other,2
+Sweden,Other,0
+Eswatini,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,0
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,2
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,2
+United States,North America,0
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+Holy See,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,0
+British Virgin Islands,Other,2
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,0
+Zimbabwe,Other,2
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,2
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,2
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,2
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,2
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,2
+Belgium,Other,2
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,2
+Bulgaria,Other,0
+Bahrain,Other,2
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,2
+Bolivia,Other,2
+Brazil,Other,0
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Bouvet Island,Other,2
+Botswana,Other,2
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,0
+Chile,Other,2
+China,East Asia & Pacific,2
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,2
+Czech Republic,Other,0
+Germany,Europe & Central Asia,2
+Djibouti,Other,2
+Dominica,Other,2
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,2
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,2
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,2
+Guinea-Bissau,Other,2
+Equatorial Guinea,Other,2
+Greece,Other,2
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,2
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,2
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,2
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,2
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,2
+Jamaica,Other,2
+Jordan,Other,2
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,2
+Cambodia,Other,2
+Kiribati,Other,0
+St. Kitts and Nevis,Other,2
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,2
+Lao PDR,Other,2
+Lebanon,Other,2
+Liberia,Other,0
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lesotho,Other,2
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Monaco,Other,0
+Moldova,Other,2
+Madagascar,Other,0
+Maldives,Other,2
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,0
+Mauritania,Other,2
+Montserrat,Other,2
+Mauritius,Other,0
+Malawi,Other,2
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,0
+Oman,Other,2
+Pakistan,Other,0
+Panama,Other,2
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+Occ.Pal.Terr,Other,2
+French Polynesia,Other,0
+Qatar,Other,2
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,2
+Fm Sudan,Other,2
+Senegal,Other,2
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,2
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,2
+Eswatini,Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,2
+Chad,Other,2
+Togo,Other,2
+Thailand,Other,0
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,2
+East Timor,Other,0
+Tonga,Other,2
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,2
+Uganda,Other,2
+Ukraine,Other,0
+United States Minor Outlying I,North America,2
+Uruguay,Other,2
+United States,North America,0
+Us Msc.Pac.I,Other,2
+Uzbekistan,Other,2
+Holy See,Other,2
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,2
+Afghanistan,Other,2
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,2
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,2
+Antigua and Barbuda,Other,2
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,2
+Brunei,Other,0
+Bhutan,Other,2
+Bouvet Island,Other,0
+Botswana,Other,2
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,2
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,2
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,2
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,2
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,2
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,2
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,2
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,2
+Equatorial Guinea,Other,2
+Greece,Other,0
+Grenada,Other,2
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,2
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,2
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,2
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,2
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,2
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,2
+St. Lucia,Other,2
+Sri Lanka,Other,2
+Lesotho,Other,2
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,0
+Mongolia,Other,2
+Northern Mariana Islands,Other,2
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,2
+Nigeria,Other,2
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,2
+New Zealand,Other,0
+Oman,Other,2
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,2
+Portugal,Other,2
+Paraguay,Other,2
+Occ.Pal.Terr,Other,2
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,2
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,2
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,0
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,2
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,2
+United States,North America,0
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,2
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,2
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,2
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,2
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,2
+Myanmar,Other,2
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,2
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,2
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,2
+Burkina Faso,Other,2
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,2
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,2
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,2
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,2
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,0
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,2
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,3
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,2
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,2
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,2
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,2
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,2
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,2
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,2
+Lesotho,Other,2
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,2
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,2
+Tokelau,Other,2
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,2
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,2
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,2
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,2
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,2
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,2
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,2
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,2
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,2
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,2
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Christmas Island,Other,2
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,2
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,2
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,2
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,2
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,2
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,2
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,2
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+Netherlands Antilles,Other,2
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,2
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,2
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,2
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Mayotte,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,2
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,2
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,2
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,2
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,2
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,2
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,2
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,2
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,2
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,2
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,2
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,2
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,0
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,2
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Fm Sudan,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,0
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0
+Aruba,Other,0
+Afghanistan,Other,0
+Angola,Other,0
+Anguila,Other,0
+Albania,Other,0
+Andorra,Other,0
+United Arab Emirates,Other,0
+Argentina,Other,0
+Armenia,Other,0
+American Samoa,Other,0
+Antarctica,Other,0
+Fr. So. Ant. Tr,Other,0
+Antigua and Barbuda,Other,0
+Australia,Other,0
+Austria,Other,0
+Azerbaijan,Other,0
+Br. Antr. Terr,Other,0
+Burundi,Other,0
+Belgium,Other,0
+Benin,Other,0
+Bonaire,Other,0
+Burkina Faso,Other,0
+Bangladesh,Other,0
+Bulgaria,Other,0
+Bahrain,Other,0
+"Bahamas, The",Other,0
+Bosnia and Herzegovina,Other,0
+Saint Barthélemy,Other,0
+Belarus,Other,0
+Belize,Other,0
+Bermuda,Other,0
+Bolivia,Other,0
+Brazil,Other,0
+Barbados,Other,0
+Brunei,Other,0
+Bhutan,Other,0
+Bouvet Island,Other,0
+Botswana,Other,0
+Central African Republic,Other,0
+Canada,North America,0
+Cocos (Keeling) Islands,Other,0
+Switzerland,Other,0
+Chile,Other,0
+China,East Asia & Pacific,0
+Cote d'Ivoire,Other,0
+Cameroon,Other,0
+"Congo, Rep.",Other,0
+Cook Islands,Other,0
+Colombia,Other,0
+Comoros,Other,0
+Cape Verde,Other,0
+Costa Rica,Other,0
+Cuba,Other,2
+Curaçao,Other,0
+Christmas Island,Other,0
+Cayman Islands,Other,0
+Cyprus,Other,0
+Czech Republic,Other,0
+Germany,Europe & Central Asia,0
+Djibouti,Other,0
+Dominica,Other,0
+Denmark,Other,0
+Dominican Republic,Other,0
+Algeria,Other,0
+Ecuador,Other,0
+"Egypt, Arab Rep.",Other,0
+Eritrea,Other,0
+Western Sahara,Other,0
+Spain,Other,0
+Estonia,Other,0
+Ethiopia(excludes Eritrea),Other,0
+Finland,Other,0
+Fiji,Other,0
+Falkland Island,Other,0
+France,Europe & Central Asia,0
+Free Zones,Other,0
+Faeroe Islands,Other,0
+"Micronesia, Fed. Sts.",Other,0
+Gabon,Other,0
+United Kingdom,Other,0
+Georgia,Other,0
+Ghana,Other,0
+Gibraltar,Other,0
+Guinea,Other,0
+"Gambia, The",Other,0
+Guinea-Bissau,Other,0
+Equatorial Guinea,Other,0
+Greece,Other,0
+Grenada,Other,0
+Greenland,Other,0
+Guatemala,Other,0
+Guam,Other,0
+Guyana,Other,0
+"Hong Kong, China",East Asia & Pacific,0
+Heard Island and McDonald Isla,Other,0
+Honduras,Other,0
+Croatia,Other,0
+Haiti,Other,0
+Hungary,Other,0
+Indonesia,Other,0
+India,Other,0
+British Indian Ocean Ter.,Other,0
+Ireland,Other,0
+"Iran, Islamic Rep.",Other,0
+Iraq,Other,0
+Iceland,Other,0
+Israel,Other,0
+Italy,Europe & Central Asia,0
+Jamaica,Other,0
+Jordan,Other,0
+Japan,East Asia & Pacific,0
+Kazakhstan,Other,0
+Kenya,Other,0
+Kyrgyz Republic,Other,0
+Cambodia,Other,0
+Kiribati,Other,0
+St. Kitts and Nevis,Other,0
+"Korea, Rep.",East Asia & Pacific,0
+Kuwait,Other,0
+Lao PDR,Other,0
+Lebanon,Other,0
+Liberia,Other,0
+Libya,Other,0
+St. Lucia,Other,0
+Sri Lanka,Other,0
+Lesotho,Other,0
+Lithuania,Other,0
+Luxembourg,Other,0
+Latvia,Other,0
+Macao,Other,0
+Morocco,Other,0
+Moldova,Other,0
+Madagascar,Other,0
+Maldives,Other,0
+Mexico,North America,0
+Marshall Islands,Other,0
+North Macedonia,Other,0
+Mali,Other,0
+Malta,Other,0
+Myanmar,Other,0
+Mongolia,Other,0
+Northern Mariana Islands,Other,0
+Montenegro,Other,0
+Mozambique,Other,0
+Mauritania,Other,0
+Montserrat,Other,0
+Mauritius,Other,0
+Malawi,Other,0
+Malaysia,Other,0
+Namibia,Other,0
+New Caledonia,Other,0
+Niger,Other,0
+Norfolk Island,Other,0
+Nigeria,Other,0
+Nicaragua,Other,0
+Niue,Other,0
+Netherlands,Other,0
+Norway,Other,0
+Nepal,Other,0
+Nauru,Other,0
+New Zealand,Other,0
+Oman,Other,0
+Pakistan,Other,0
+Panama,Other,0
+Pitcairn,Other,0
+Peru,Other,0
+Philippines,Other,0
+Palau,Other,0
+Papua New Guinea,Other,0
+Poland,Other,0
+"Korea, Dem. Rep.",East Asia & Pacific,0
+Portugal,Other,0
+Paraguay,Other,0
+Occ.Pal.Terr,Other,0
+French Polynesia,Other,0
+Qatar,Other,0
+Romania,Other,0
+Russian Federation,Other,0
+Rwanda,Other,0
+Saudi Arabia,Other,0
+Senegal,Other,0
+"Serbia, FR(Serbia/Montenegro)",Other,0
+Singapore,East Asia & Pacific,0
+South Georgia and the South Sa,Other,0
+Saint Helena,Other,0
+Solomon Islands,Other,0
+Sierra Leone,Other,0
+El Salvador,Other,0
+San Marino,Other,0
+Somalia,Other,0
+Saint Pierre and Miquelon,Other,0
+South Sudan,Other,2
+Sao Tome and Principe,Other,0
+Sudan,Other,0
+Suriname,Other,0
+Slovak Republic,Other,0
+Slovenia,Other,0
+Sweden,Other,0
+Eswatini,Other,0
+Saint Maarten (Dutch part),Other,0
+Seychelles,Other,0
+Syrian Arab Republic,Other,0
+Turks and Caicos Isl.,Other,0
+Chad,Other,0
+Togo,Other,0
+Thailand,Other,0
+Tajikistan,Other,0
+Tokelau,Other,0
+Turkmenistan,Other,0
+East Timor,Other,0
+Tonga,Other,0
+Trinidad and Tobago,Other,0
+Tunisia,Other,0
+Turkey,Other,0
+Tuvalu,Other,0
+Tanzania,Other,0
+Uganda,Other,0
+Ukraine,Other,0
+United States Minor Outlying I,North America,0
+Uruguay,Other,0
+United States,North America,3
+Uzbekistan,Other,0
+Holy See,Other,0
+St. Vincent and the Grenadines,Other,0
+Venezuela,Other,0
+British Virgin Islands,Other,0
+Vietnam,Other,0
+Vanuatu,Other,0
+ World,World,1
+Wallis and Futura Isl.,Other,0
+Samoa,Other,0
+Yemen,Other,0
+South Africa,Other,0
+"Congo, Dem. Rep.",Other,0
+Zambia,Other,0
+Zimbabwe,Other,0

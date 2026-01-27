@@ -1,0 +1,8 @@
+WORLD TRADE EDA SUMMARY
+==================================================
+Total Countries Analyzed: 252
+Total Years: 34
+Total Trade Volume: $2207.30 Billion
+Average Trade Balance: $11.60 Million
+Number of Clusters Identified: 4
+Anomaly Detection Rate: 10.0%
